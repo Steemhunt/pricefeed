@@ -5,7 +5,7 @@ If you already have nodejs & npm installed you can skip this section, but I want
 
 ```
 $ sudo apt-get update
-$ curl -sL https://deb.nodesource.com/setup_9.x | sudo -E bash -
+$ curl -sL https://deb.nodesource.com/setup_10.x | sudo bash -
 $ sudo apt-get install -y nodejs
 ```
 
